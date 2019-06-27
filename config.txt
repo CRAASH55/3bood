@@ -1,5 +1,5 @@
 owner=213190906528923648
-prefix=mm
+prefix=!
 game=سارية السواس
 stayinchannel=true
 songinstatus=false
